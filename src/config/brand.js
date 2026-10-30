@@ -18,7 +18,7 @@ export const BRAND = {
   // Location & Legacy
   location: "Vrindavan Dham, Mathura, Uttar Pradesh, India",
   pincode: "281121",
-  templeBlessing: "राधे राधे · श्री राधा कृपा कटाक्ष",
+  templeBlessing: "जय श्री राधे | श्री हित हरिवंश चन्द्र",
   
   // Shipping & Order Terms
   shippingNote: "Delivery charges & final payment details will be confirmed directly on WhatsApp.",
